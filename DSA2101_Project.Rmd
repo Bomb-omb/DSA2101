@@ -26,11 +26,11 @@ library(mapdata)
 
 Name | Matriculation number
 :----: | :----:
-Ryan Toh Jun Hui | A0258995B
-Charles Goek Cher Jun | A0233901N
-Leong Yao Heng | A0241011H
-Jessica Widyawati | A0239136A
-Kwek Wan Ting | A0238316E
+Ryan Toh Jun Hui 
+Charles Goek Cher Jun
+Leong Yao Heng
+Jessica Widyawati
+Kwek Wan Ting
 
 ## Introduction
 
